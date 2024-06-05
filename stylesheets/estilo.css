@@ -181,3 +181,11 @@ h4 {
   margin-top: 3%;
   text-align: justify;
 }
+.navegacion {
+  color: #fff;
+  font-family: "Ubuntu", sans-serif;
+  display: inline-block;
+  vertical-align: top;
+  text-align: justify;
+  font-size: 120%;
+}
